@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub Follow](https://github.com/camilabagnasco)
-  ![Kaggle Follow](https://www.kaggle.com/camilabagnasco)
-  ![LinkedIn Follow](https://www.linkedin.com/in/camila-bagnasco/)
-  ![X Follow](https://x.com/camilabagnasco1)
+  ![GitHub Link](https://github.com/camilabagnasco)
+  ![Kaggle Link](https://www.kaggle.com/camilabagnasco)
+  ![LinkedIn Link](https://www.linkedin.com/in/camila-bagnasco/)
+  ![X Link](https://x.com/camilabagnasco1)
 
   <br />
   <br />
